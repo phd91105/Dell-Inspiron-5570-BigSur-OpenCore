@@ -11,7 +11,7 @@ Kext : all updated
 |Monitor|Dell RN91N [15.6" LCD]|
 |Audio Adapter| Realtek ALC256 @ Intel Wildcat Point-LP PCH - High Definition Audio Controller [F0]|
 |Storage:|Disk Drive Samsung SSD 970 EVO Plus 250GB (Nvme)|
-|Network:| Broadcom 802.11ac Wireless PCIE Full Dongle Adapter (DELL DW1560)|
+|Network:| Broadcom 802.11ac Wireless PCIE (DW1560)|
 
 #What's Work?
 
