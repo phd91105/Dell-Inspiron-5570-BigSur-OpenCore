@@ -1,6 +1,6 @@
-# DELL 5570 hackintosh-opencore BigSur 11.0.1
+# DELL 5570 Hackintosh - macOS Big Sur 11.0.1
 
-**Does not work (completely) on the i7-8550U variant! If you want to Hackintosh your Kaby Lake Refresh version, go <a href="https://github.com/Doregon/Inspiron-5570-KBR-Hackintosh">here</a> to find a completely working copy!
+**Does not work (completely) on the i7-8550U variant! If you want to Hackintosh your Kaby Lake Refresh version, go <a href="https://github.com/Doregon/Inspiron-5570-KBR-Hackintosh">here</a> to find a completely working copy!**
 
 Bootloader Opencore 0.6.3
 
