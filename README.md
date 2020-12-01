@@ -23,7 +23,7 @@ Kexts : All updated (as of Nov 18, 2020)
 |  GPU acceleration| ✅ |
 |  Sleeping and wake| ✅ |
 |  ALL USB 3.0 and 2.0| ✅ |
-|  WiFi (DW 1560 Boardcom brand)| ✅ |
+|  WiFi (DW 1560 Broadcom brand)| ✅ |
 |  Location services| ✅ |
 |  Webcam| ✅ |
 |  HDMI out| ✅ |
