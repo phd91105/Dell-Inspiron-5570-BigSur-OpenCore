@@ -1,10 +1,10 @@
-# DELL 5570 hackintosh-opencore BigSur 11.0.1
+# DELL 5570 Hackintosh - macOS Big Sur 11.0.1
 
-**Does not work (completely) on the i7-8550U variant! If you want to Hackintosh your Kaby Lake Refresh version, go <a href="https://github.com/Doregon/Inspiron-5570-KBR-Hackintosh">here</a> to find a completely working copy!
+**Does not work (completely) on the i7-8550U variant! If you want to Hackintosh your Kaby Lake Refresh version, go <a href="https://github.com/Doregon/Inspiron-5570-KBR-Hackintosh">here</a> to find a completely working copy!**
 
-Bootloader Opencore 0.6.3
+Bootloader: Opencore 0.6.3
 
-Kext : all updated
+Kexts : All updated (as of Nov 18, 2020)
 
 | SPECS |   |
 |---|---|
@@ -23,7 +23,7 @@ Kext : all updated
 |  GPU acceleration| ✅ |
 |  Sleeping and wake| ✅ |
 |  ALL USB 3.0 and 2.0| ✅ |
-|  WiFi (DW 1560 Boardcom brand)| ✅ |
+|  WiFi (DW 1560 Broadcom brand)| ✅ |
 |  Location services| ✅ |
 |  Webcam| ✅ |
 |  HDMI out| ✅ |
