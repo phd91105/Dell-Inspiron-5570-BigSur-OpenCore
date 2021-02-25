@@ -7,7 +7,7 @@
 | SPECS |   |
 |---|---|
 |BIOS version|1.2.3|
-|Motherboard|CPU Type Mobile Intel Core i5-8250U|
+|CPU|CPU Type Mobile Intel Core i5-8250U|
 |System Memory| 8192 MB (DDR4 RAM)|
 |Display|Video Adapter Intel UHD Graphics 620|
 |Monitor|Dell 15.6" LCD|
