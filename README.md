@@ -1,5 +1,5 @@
-#Dell 5570 - Big Sur 11.2.1 (OC 0.6.6)
-#[Full guide for fix CFG Lock](https://github.com/phd91105/Dell-Inspiron-5570-BigSur-OpenCore/blob/main/CFG-UNLOCKING.md)
+# Dell 5570 - Big Sur 11.2.1 (OC 0.6.6)
+# [Full guide for fix CFG Lock](https://github.com/phd91105/Dell-Inspiron-5570-BigSur-OpenCore/blob/main/CFG-UNLOCKING.md)
 
 | SPECS |   |
 |---|---|
@@ -11,7 +11,7 @@
 |Storage:|Disk Drive Samsung SSD 970 EVO Plus 250GB (Nvme)|
 |Network:| Broadcom 802.11ac Wireless PCIE (DW1560)|
 
-#What's Work?
+# What's Work?
 
 | #Function | Work? |
 |---------------|-----------------------------------------------|
