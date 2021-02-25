@@ -13,16 +13,16 @@
 
 # What's Work?
 
-| #Function | Work? |
+| Function | Work? |
 |---------------|-----------------------------------------------|
-|  GPU acceleration| true |
-|  Sleeping and wake| true |
+|  GPU acceleration (without dGPU)| true |
+|  Sleeping and wake| not test |
 |  ALL USB 3.0 and 2.0| true |
 |  WiFi (DW 1560 Broadcom brand)| true |
 |  Location services| true |
 |  Webcam| true |
-|  HDMI out| true |
+|  HDMI| true |
 |  Built in Bluetooth| true |
 |  Track pad,keyboard and any guesture| true |
 |  Speaker, mic , line out, headphone| true |
-|  Baterry indicator,hotkey volume ,brightnes change, etc.....| true |
+|  Baterry indicator,hotkey volume ,brightnes| true |
