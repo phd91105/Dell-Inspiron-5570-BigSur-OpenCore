@@ -6,13 +6,14 @@
 
 | SPECS |   |
 |---|---|
-|Motherboard:|CPU Type Mobile Intel Core i5-8250U, Dell Inspiron 5570|
+|BIOS version|1.2.3|
+|Motherboard|CPU Type Mobile Intel Core i5-8250U|
 |System Memory| 8192 MB (DDR4 RAM)|
-|Display:|Video Adapter Intel UHD Graphics 620|
+|Display|Video Adapter Intel UHD Graphics 620|
 |Monitor|Dell 15.6" LCD|
 |Audio Adapter| Realtek ALC256 @ Intel Wildcat Point-LP PCH - High Definition Audio Controller [F0]|
-|Storage:|Disk Drive Samsung SSD 970 EVO Plus 250GB (Nvme)|
-|Network:| Broadcom 802.11ac Wireless PCIE (DW1560)|
+|Storage|Disk Drive Samsung SSD 970 EVO Plus 250GB (Nvme)|
+|Network| Broadcom 802.11ac Wireless PCIE (DW1560)|
 
 # What's Work?
 
