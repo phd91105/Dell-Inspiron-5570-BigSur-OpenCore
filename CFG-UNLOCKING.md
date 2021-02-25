@@ -7,7 +7,7 @@ CFG Lock is a setting in your BIOS that allows for a specific register (in this 
 
 One way of fixing it is by enabling the `AppleCpuPmCfgLock` and `AppleXcpuPmCfgLock` quirks in OpenCore's config.plist. However, this approach is only meant to be temporary and can be buggy--crashes and kernic panics will happen if you do this for a long period of time.
 
-Another way is disabling CFG Lock in the system's BIOS. However, the 5570 doesn't have an option to do so, as stated above. To fix this, we can use `modGRUBShell.efi` (can be found in my Inspiron-5570-KBR repo) to unlock it.
+Another way is disabling CFG Lock in the system's BIOS. However, the 5570 doesn't have an option to do so, as stated above. To fix this, we can use [modGRUBShell.efi](https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwjR7ufb84TvAhUKWX0KHQuXDx8QFjAAegQIARAD&url=https%3A%2F%2Fgithub.com%2Fdatasone%2Fgrub-mod-setup_var%2Freleases%2Fdownload%2F1.0%2FmodGRUBShell.efi&usg=AOvVaw26a1cyDs_HJ4ectxlSBydF&rct=j&esrc=s) (can be found in my Inspiron-5570-KBR repo) to unlock it.
 
 ## 1. Getting ready
 
