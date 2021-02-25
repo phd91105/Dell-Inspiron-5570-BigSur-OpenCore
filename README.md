@@ -1,5 +1,5 @@
 # Dell 5570 - Big Sur 11.2.1 (OC 0.6.6)
-[**full guide to fix CFG Lock](https://github.com/phd91105/Dell-Inspiron-5570-BigSur-OpenCore/blob/main/CFG-UNLOCKING.md)
+## First, please read this [guide](https://github.com/phd91105/Dell-Inspiron-5570-BigSur-OpenCore/blob/main/CFG-UNLOCKING.md) for fix `CFG lock` to continue !!!.
 
 
 # Specs
